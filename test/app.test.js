@@ -16,3 +16,5 @@ describe("Sample tests", () =>{
     });
 
 })
+
+//git rm -r --cached node_modules
