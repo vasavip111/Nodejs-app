@@ -3,3 +3,5 @@ node_modules/
 # git rm -r --cached node_modules
 # git status
 # git add .
+# git commit -m "third commit"
+# git push -f origin main
